@@ -26,4 +26,4 @@ This is a personal profile website built using GitHub Pages. It showcases profes
 - CSS3
 - JavaScript
 - Font Awesome for icons
-- Google Fonts 
+- Google Fonts # dgadirajuprofile
